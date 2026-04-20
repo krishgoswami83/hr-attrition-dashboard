@@ -60,8 +60,7 @@ The project combines **PostgreSQL** for structured SQL analysis and **Power BI**
 
 ## Dashboard Preview
 
-> Add your Power BI screenshot here — replace this line with:
-> `![Dashboard Preview](dashboard_screenshot.png)`
+> ![Dashboard Preview](dashboard_screenshot.png)
 
 ---
 
